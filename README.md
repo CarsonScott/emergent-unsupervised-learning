@@ -1,4 +1,4 @@
-# spatial-temporal-unsupervised-learning
+# Spatial-Temporal Method of Unsupervised Learning
 
 ## Neural Systems
 &nbsp;&nbsp;&nbsp;&nbsp; A neural system is a network of randomly distributed neurons that send and receive activation signals through connections. A subset receives sensory signals from the environment, and another subset passes motor signals to the environment. Feedback reflects the causal relationship between outputs and inputs and vice-versa. The interconnected neurons make up an adaptive system whose organization is shaped by the feedback loop.
