@@ -1,5 +1,10 @@
 # Spatial-Temporal Method for Unsupervised Learning
 
+## Goal
+This paper provides a high level description of a machine learning algorithm that utilizes a a distributed  neural system within a finite space, along with a set of basic physical properties that drive and constrain synaptic development (learning).
+
+***
+
 ## Neural Systems
 &nbsp;&nbsp;&nbsp;&nbsp; A neural system is a network of randomly distributed neurons that send and receive activation signals through connections. A subset receives sensory signals from the environment, and another subset passes motor signals to the environment. Feedback reflects the causal relationship between outputs and inputs and vice-versa. The interconnected neurons make up an adaptive system whose organization is shaped by the feedback loop.
 
