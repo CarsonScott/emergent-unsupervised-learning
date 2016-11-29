@@ -1,7 +1,7 @@
 # Spatial-Temporal Method for Unsupervised Learning
 
 ## Goal
-This paper provides a high level description of a machine learning algorithm that utilizes a a distributed  neural system within a finite space, along with a set of basic physical properties that drive and constrain synaptic development (learning).
+This paper provides a high level description of a machine learning algorithm that utilizes distributed neurons within a finite space, along with a set of basic physical properties that drive and constrain synaptic development (learning).
 
 ***
 
